@@ -1,2 +1,5 @@
 # hello-world
-the first respository
+
+Hi,humans!
+
+I like python.
